@@ -1,15 +1,16 @@
 package com.java.demo;
 
-public class Demo1 
-{
+public class Sample2 {
+
 	public static void main(String[] args) 
 	{
+
 		System.out.println("HI");
-		int a=10;
-		int b=20;
-		int sum=a+b;
+		int p=10;
+		int q=20;
+		int sub=p-q;
 		
-		System.out.println(sum);
+		System.out.println(sub);
 	}
 
 }
