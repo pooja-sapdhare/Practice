@@ -7,9 +7,9 @@ public class Demo1
 		System.out.println("HI");
 		int a=10;
 		int b=20;
-		int mul=a+b;
+		int add=a+b;
 		
-		System.out.println(mul);
+		System.out.println(add);
 	}
 
 }
